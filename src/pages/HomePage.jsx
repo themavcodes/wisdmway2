@@ -2,7 +2,7 @@
 import Navbar from "../components/Navbar";
 import Chatbox from "../components/Chatbox";
 import CarouselComponent from "../components/CarouselComponent";
-import InfoBox from "../components/InfoBox";
+import InfoBox from "../components/infoBox";
 import Footer from "../components/Footer";
 import Courses from "../components/Courses";
 
